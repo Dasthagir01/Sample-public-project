@@ -1,2 +1,2 @@
 # Sample-public-project
-this is my sample public project
+This is my sample public project
